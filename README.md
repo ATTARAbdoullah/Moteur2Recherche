@@ -22,11 +22,11 @@ https://nodejs.org/en/download/
 ```
 node --version
 
-npm --version 
+npm -version 
 ```
 Assurez-vous que les deux commandes peuvent être lancer à partir de n'importe quel dossier.
 
-* Ouvrir un terminal à la racine du dossier frontend :
+* Ouvrir un terminal à la racine du dossier **frontend** :
 ```
 npm install
 ```
